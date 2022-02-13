@@ -41478,10 +41478,10 @@ input[type="date"i]::-webkit-calendar-picker-indicator {
     border: 0;
     background-position: left 0.5rem center;
     width: 98%;
-    margin-top: 18px;
+    margin-top: 12px;
     background-color: #f5f5f5;
     border-radius: 4px;
-    padding: 3px 10px;
+    padding: 9px 10px;
 }
 
 .dir-ltr {
